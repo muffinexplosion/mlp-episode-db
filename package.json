@@ -1,12 +1,12 @@
 {
-  "name": "__project__",
+  "name": "mlp-episode-db",
   "version": "0.0.1",
-  "description": "Web project template. Featuring JSPM, Gulp, SASS, live reloads.",
+  "description": "My Little Pony Episode Datebase",
   "main": "src/app/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mikhail Yurasov <me@yurasov.me>",
+  "author": "Muffinexplosion <muffinexplosion@gmx.net>",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.9.4",

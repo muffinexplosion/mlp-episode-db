@@ -1,29 +1,6 @@
-# AngularJS / ES6 / JSPM / Gulp Starter Project
- 
-A quick start template for web development with JSPM, Gulp, ECMAScript 6/2015 and AngularJS. 
+# My Little Pony Episode Database
 
-Featuring
-
-🙈 Gulp-based workflow
-
-🍄 ES6 with on-the-fly transpilation (using Babel) in development
-
-🐶 AngularJS starter app
-
-🐥 Bundling transpiled JS for prodution
-
-🐎 Templates caching
-
-🐠 Minification
-
-🐕 Assets optimization
-
-🐙 JSPM
-
-🐷 SASS
-
-🐝 Live Reload
-
+This is a work in progress.
 
 ## Development Requirements
 
@@ -38,8 +15,8 @@ Featuring
 ### Installation
 
 ```
-git clone https://github.com/myurasov/Angular-ES6-JSPM-Gulp-Boilerplate.git myapp
-cd myapp
+git clone https://github.com/muffinexplosion/mlp-episode-db.git mlp-episode-db
+cd mlp-episode-db
 npm install
 jspm install
 gulp
@@ -91,12 +68,7 @@ After the build the app can be served from __src/app__ directory.
 
 ## Author
 
-Mikhail Yurasov <<me@yurasov.me>>.
-
-Web/Mobile/Fullstack developer, Hackatons enthusiast.
-
-* [Linkedin](https://www.linkedin.com/profile/view?id=173007295)
-* [Github](https://github.com/myurasov)
+Muffinexplosion <<muffinexplosion@gmx.net>>.
 
 ## License
 
